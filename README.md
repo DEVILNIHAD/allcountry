@@ -16,7 +16,7 @@ Commands Bellow👇👇👇👇
 
 🔗 pip2 install mechanize
 
-🔗 git clone https://github.com/KhalidH3cker2977/allcountry.git
+🔗 git clone https://github.com/DEVILNIHAD/allcountry.git
 
 🔗 cd allcountry
 
